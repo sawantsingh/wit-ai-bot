@@ -1,1 +1,1 @@
-web: node examples/messenger.js
+web: node messenger.js
